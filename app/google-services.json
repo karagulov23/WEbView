@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615649457791",
+    "project_id": "webview-150d4",
+    "storage_bucket": "webview-150d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615649457791:android:5e9f9a2d31689dfea4f14a",
+        "android_client_info": {
+          "package_name": "orlo.karagulov.webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615649457791-s0ntrvf79cppcklntaffl0e4j8tgmsnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9gupYG7GFmNXExeDUkA8_qPtxgKBSnQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615649457791-s0ntrvf79cppcklntaffl0e4j8tgmsnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
